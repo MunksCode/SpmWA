@@ -10,7 +10,7 @@ $ pkg install git
 
 $ pip install requests
 
-$ git clone https://github.com/Rizki-Xs/spamming
+$ git clone https://github.com/MunksCode/SpmWA
 # Running
 $ cd spamming
 
@@ -18,7 +18,7 @@ $ ls
 
 $ pip install -r requirements.txt
 
-$ python3 R_run.py
+$ python3 Xs_run.py
 
 # Catatan
 jika ingin mengulang spam dengan nomor yang sama
