@@ -12,13 +12,13 @@ $ pip install requests
 
 $ git clone https://github.com/MunksCode/SpmWA
 # Running
-$ cd spamming
+$ cd SpmWA
 
 $ ls
 
 $ pip install -r requirements.txt
 
-$ python3 Xs_run.py
+$ python3 ms_run.py
 
 # Catatan
 jika ingin mengulang spam dengan nomor yang sama
